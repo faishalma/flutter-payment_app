@@ -1,6 +1,6 @@
 # payment_app
 
-A new Flutter project.
+Explore simple State Management in Flutter to build applications that have good User-Experience Design for users. Starting from the slicing design from Figma to the development stage using the Flutter SDK and Dart.
 
 ## Getting Started
 
