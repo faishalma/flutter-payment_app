@@ -1,16 +1,9 @@
-# payment_app
+# Payment App
 
-Explore simple State Management in Flutter to build applications that have good User-Experience Design for users. Starting from the slicing design from Figma to the development stage using the Flutter SDK and Dart.
+Explore simple State Management in Flutter to build applications that have good User-Experience Design for users. Starting from the slicing design from Figma to the development stage. Made in ❤️ with Flutter.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<kbd><img width="216" height="432" src="screenshots/01.png" alt="Screenshot 1" /></kbd>
+<kbd><img width="216" height="432" src="screenshots/02.png" alt="Screenshot 2" /></kbd>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
