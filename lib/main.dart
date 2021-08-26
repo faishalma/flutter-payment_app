@@ -89,12 +89,11 @@ class _PaymentAppsState extends State<PaymentApps> {
             Center(
               child: Image.asset(
                 'assets/illustration.png',
-                width: 267,
-                height: 200,
+                height: 150,
               ),
             ),
             SizedBox(
-              height: 50,
+              height: 20,
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
@@ -158,13 +157,13 @@ class _PaymentAppsState extends State<PaymentApps> {
             children: [
               header(),
               SizedBox(
-                height: 50,
+                height: 25,
               ),
               option(0, 'Monthly', 'Good for starting up', '\$20'),
               option(1, 'Quarterly', 'Focusing on building', '\$55'),
               option(2, 'Yearly', 'Steady company', '\$220'),
               SizedBox(
-                height: 50,
+                height: 25,
               ),
               selectedIndex == -1 ? SizedBox() : checkoutButton(),
               SizedBox(
